@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
-  message: "Welcome to PROD-Config-File EazyBank accounts related to local API's"
+  message: "Welcome to PROD-Config-Server EazyBank accounts related to local API's"
   contactDetails: 
     name: "Raymond -Developer"
     email: "raymond@gmail.com"

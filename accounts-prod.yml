@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to PROD-Config-Server EazyBank accounts related to local API's"
   contactDetails: 
     name: "Raymond -Developer"
-    email: "raymond@gmail.com"
+    email: "{cipher}145935183e4b214b4c4e63497e9fad27e780b3148be5c1299ab5d1c46213153c8f8f4b5a93255e28d0b9be6adbf11753"
   onCallSupport: 
     -(555) 555-123-1234
     -(555) 523-134-3456

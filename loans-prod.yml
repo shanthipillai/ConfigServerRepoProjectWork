@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 loans:
-  message: "Welcome to Config DEFAULT-PRODUCTION-FILE EazyBank Loans related to local API's"
+  message: "Welcome to Config DEFAULT-PRODUCTION2-FILE EazyBank Loans related to local API's"
   contactDetails: 
     name: "JohnDoe -Developer"
     email: "shanthipillai@gmail.com"

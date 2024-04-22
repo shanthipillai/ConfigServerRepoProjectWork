@@ -2,7 +2,7 @@ build:
  version: "1.0"
  
 accounts:
-  message: "Welcome to PRODUCTION-Config-Server EazyBank accounts related to local API's"
+  message: "Welcome to PRODUCTION1-Config-Server EazyBank accounts related to local API's"
   contactDetails: 
     name: "Raymond -Developer"
     email: "{cipher}145935183e4b214b4c4e63497e9fad27e780b3148be5c1299ab5d1c46213153c8f8f4b5a93255e28d0b9be6adbf11753"
